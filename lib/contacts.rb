@@ -30,7 +30,11 @@ def remove_strawberry(contacts)
         # here, each index element in an ice cream flavor string
         # puts "#{flavor}"
 
-        
+        if flavor == "strawberry"
+          attribute.delete(flavor)
+        end
+
+
       end
     end
   end
