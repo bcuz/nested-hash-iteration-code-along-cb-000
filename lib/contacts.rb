@@ -31,7 +31,7 @@ def remove_strawberry(contacts)
         # puts "#{flavor}"
 
         if flavor == "strawberry"
-          binding.pry
+          # binding.pry
 
           # p person[attribute]
           data[attribute].delete(flavor)
