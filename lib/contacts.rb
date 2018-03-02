@@ -45,4 +45,4 @@ end
 
 end
 
-remove_strawberry(contacts)
+# remove_strawberry(contacts)
