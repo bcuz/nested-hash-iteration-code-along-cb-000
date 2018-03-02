@@ -31,7 +31,8 @@ def remove_strawberry(contacts)
         # puts "#{flavor}"
 
         if flavor == "strawberry"
-          person[attribute].delete(flavor)
+          puts attribute
+          # person[attribute].delete(flavor)
         end
 
 
