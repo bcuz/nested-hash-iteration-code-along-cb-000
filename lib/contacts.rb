@@ -34,7 +34,7 @@ def remove_strawberry(contacts)
           binding.pry
 
           # p person[attribute]
-          # person[attribute].delete(flavor)
+          data[attribute].delete(flavor)
         end
 
 
